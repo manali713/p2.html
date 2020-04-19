@@ -8,6 +8,7 @@
 helloooo
 
 </title>
+</head>
 
 <style>
 
@@ -15,7 +16,7 @@ hi,h2 { color:red;}
 
 </style>
 
-</head>
+
 
 <body>
 
