@@ -1,4 +1,5 @@
 # p2.html
+<!DOCTYPE HTML>
 <html>
 
 <head>
